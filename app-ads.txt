@@ -1,6 +1,7 @@
 facebook.com, 1207533526488059, RESELLER, c3e20eee3f780d68
 
 facebook.com, 1860857737533600, DIRECT, c3e20eee3f780d68
+facebook.com, 600669598348351, DIRECT, c3e20eee3f780d68
 google.com, pub-5470400114155059, DIRECT, f08c47fec0942fa0
 
 applovin.com, a7a350fd3c165441eb95c8e9e2db6df1, DIRECT
