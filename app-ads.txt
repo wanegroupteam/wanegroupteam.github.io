@@ -2274,6 +2274,12 @@ adcolony.com, 26020665bffc66a59ac13154d5c815dd, DIRECT, 1ad675c9de6b5176
 adcolony.com, 599606ae60a2b0d921dc54be65e93d43, DIRECT, 1ad675c9de6b5176
 
 chartboost.com, 58807d3b43150f737f494e77, DIRECT
+loopme.com,14857, DIRECT,6c8d5f95897a5a3b
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
 indexexchange.com, 185578, RESELLER, 50b1c356f2c5c8fc
